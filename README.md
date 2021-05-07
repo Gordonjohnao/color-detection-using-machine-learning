@@ -10,4 +10,4 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 
 Colors Dataset
 
-The colors.csv file includes 865 color names along with their RGB and hex values.
+The colors.csv file includes 865 color names along with their RGB and hex values. this data sets are categorized according to color codes.
